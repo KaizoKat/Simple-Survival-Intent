@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4162663cbb6ada94c9c04fd65e835adf, type: 3}
+  m_Name: Shroom
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 7428951904418868756, guid: 334759c3c6b7dce41806751b0527cf38, type: 3}
+  type: 0
+  description: "A red mushroom that does not kill you... hopefully...\n\n\t+ 20 HP\t\t\tBuffs\n\t+
+    10 XP\t\tGives the ability to jump\n\t+ 10 Food\thigher for five seconds\n\t\t\tfrom
+    consumption.\n\t- 7 Water"
+  HPI: 20
+  HPO: 0
+  XPI: 10
+  XPO: 0
+  FI: 10
+  FO: 0
+  WI: 0
+  WO: 7

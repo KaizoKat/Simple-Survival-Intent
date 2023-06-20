@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f45f2a373835e214bbaad0433db71546, type: 3}
+  m_Name: Axe
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 535506266641248273, guid: e0866b4370803df4aad21d331388b000, type: 3}
+  type: 1
+  description: "Used in combat and cutting trees. Also this axe seems to be broken.
+    Not in the actually bbroken kinda way. \n\n\t   250 Dmg\t\tDebuff\n\t   100k
+    Dura \tDoes not have one. It's\n\t   5m Range\tjust that broken.\n\t   1.5 DTPS\n\t  
+    5s Tool Spd\n\t   \n\tCan cut trees   Breaking Level : Legendary"
+  Durability: 100000
+  isMele: 1
+  isRange: 0
+  Dammage: 250
+  Range: 5
+  AttackSpeed: 1.5
+  isTool: 1
+  Axe: 1
+  Pick: 0
+  Hoe: 0
+  Shovel: 0
+  breakingLevel: 10
+  toolSpeed: 5
+  isArmoor: 0
+  Helmet: 0
+  Chestplate: 0
+  Legings: 0
+  Boots: 0
+  isHelperTool: 0
+  Shield: 0
+  Lamp: 0
